@@ -25,7 +25,7 @@ sudo apt install -y python3-pip
 pip3 install --upgrade pip
 ```
 
-Clone repo and install [requirements.txt](https://github.com/liW-J/Garbage-CV/main/requirements.txt) in a
+Clone repo and install [requirements.txt](https://github.com/liW-J/Garbage-CV/blob/main/requirements.txt) in a
 [**Python>=3.7.0**](https://www.python.org/) environment, including
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 
