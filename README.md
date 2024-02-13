@@ -1,7 +1,7 @@
 
 ## Documentation
 
-An automatic garbage classification software Based on YOLOv5.
+An automatic garbage classification software Based on [**YOLOv5**](https://github.com/ultralytics/yolov5).
 
 Code is running on **Jetson Xavier NX** with Servos, Microcontrollers and A Camera.
 
